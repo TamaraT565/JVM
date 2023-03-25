@@ -23,7 +23,6 @@ public class JvmComprehension {
         Integer uselessVar = 700;                   // 5
         System.out.println(o.toString() + i + ii);  // 6
     }
-}
 
 Комментарии:
 1. Объявлена переменная целых числел с наименованием i. Эта переменная будет храниться в stack.
